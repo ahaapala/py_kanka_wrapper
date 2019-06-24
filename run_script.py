@@ -1,4 +1,5 @@
-from api_wrapper import api_wrapper
+#!/usr/bin/env python
+from py_kanka_wrapper.api_wrapper import api_wrapper
 import sys
 import traceback
 

@@ -1,4 +1,4 @@
-from Dice_Statistics.kanka_wrapper import kanka_wrapper
+from py_kanka_wrapper.kanka_wrapper import kanka_wrapper
 import os
 from pytest import fixture
 import pytest as pytest
